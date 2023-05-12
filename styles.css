@@ -2,6 +2,7 @@ body{
     display:flex;
     flex-direction: column;
     font-family: 'Courier New', Courier, monospace;
+    flex:1
 }
 .top{
     background-color: rgb(136, 136, 163);
@@ -62,7 +63,7 @@ ul{
 }
 .terry{
     font-weight: 900;
-    Margin-left:1100px;
+    justify-content: flex-end;
     margin-top:40px
 }
 img{
