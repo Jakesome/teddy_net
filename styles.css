@@ -6,9 +6,7 @@ body{
     max-width: 2100px;
     margin: auto;
 }
-.container {
-  
-}
+
 .top{
     background-color: rgb(136, 136, 163);
     color: aliceblue;
@@ -41,9 +39,7 @@ ul{
     margin-top:30px;
     border-radius:8px;   
 }
-.middle{
-    
-}
+
 .header-2{
     margin:60px;
     text-align: center;
@@ -80,4 +76,26 @@ img{
     border:0;
     margin-left:60px
 }
-
+.footer{
+    display:flex;
+    justify-content: space-between;
+    
+    background-color: rgb(136, 136, 163);
+    margin-top:40px;
+    padding-left:60px;
+    padding-right:60px;
+    padding-bottom:20px;
+    margin-bottom:40px;
+    color: white;
+    border-radius: 8px;
+}
+.button-2{
+    
+    width: 90px;
+    height: 30px;
+    background-color:rgb(54, 104, 255);
+    color:aliceblue;
+    margin-top:30px;
+    border-radius:8px;  
+    
+}
